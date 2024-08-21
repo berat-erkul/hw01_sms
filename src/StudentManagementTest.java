@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class StudentManagementTest {
     public static void main(String[] args) {
@@ -32,11 +31,12 @@ public class StudentManagementTest {
         list.add(student2);
         list.add(student6);
         list.add(student7);
+        list.add(student8);
+        list.add(student9);
 
         sms.addAllStudent(list);
 
         System.out.println("sms.getAllStudents() = " + sms.getAllStudents());
-
 
     }
 
