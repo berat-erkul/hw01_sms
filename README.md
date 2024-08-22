@@ -109,15 +109,15 @@ Task 3:
 	•	Create a class named StudentManagementTest with a main method.
 	•	Create 10 Student objects with unique ids.
 
-Student student1 = new Student(1, "John", "Doe", 20, 'M');
-Student student2 = new Student(2, "Jane", "Doe", 22, 'F');
-Student student3 = new Student(3, "Alice", "Smith", 19, 'F');
-Student student4 = new Student(4, "Bob", "Brown", 21, 'M');
-Student student5 = new Student(5, "Charlie", "White", 23, 'M');
-Student student6 = new Student(6, "Diana", "Green", 20, 'F');
-Student student7 = new Student(7, "Eve", "Black", 22, 'F');
-Student student8 = new Student(8, "Frank", "Blue", 19, 'M');
-Student student9 = new Student(9, "Grace", "Yellow", 21, 'F');
-Student student10 = new Student(10, "Hank", "Pink", 23, 'M');
+		Student student1 = new Student(1, "John", "Doe", 20, 'M');
+		Student student2 = new Student(2, "Jane", "Doe", 22, 'F');
+		Student student3 = new Student(3, "Alice", "Smith", 19, 'F');
+		Student student4 = new Student(4, "Bob", "Brown", 21, 'M');
+		Student student5 = new Student(5, "Charlie", "White", 23, 'M');
+		Student student6 = new Student(6, "Diana", "Green", 20, 'F');
+		Student student7 = new Student(7, "Eve", "Black", 22, 'F');
+		Student student8 = new Student(8, "Frank", "Blue", 19, 'M');
+		Student student9 = new Student(9, "Grace", "Yellow", 21, 'F');
+		Student student10 = new Student(10, "Hank", "Pink", 23, 'M');
 
 	•	Create a StudentManagement object and use it to add, remove, search for students, and print the details of specific students.
