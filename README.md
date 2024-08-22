@@ -66,11 +66,13 @@ Görev 3:
 - StudentManagement objesi oluşturun ve sisteme student ekleyin, silin, arayın, istenilen student bilgilerini yazdırın.
 
 
-
 ---
 ---
+-
 ---
-
+-
+---
+---
 
 
 [EN]
